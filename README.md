@@ -8,7 +8,6 @@ This project is a simple note-taking application built using Node.js and Express
 - [Installation](#installation)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
@@ -64,3 +63,7 @@ npm start
     }
     ```
 - DELETE `/api/v1/notes/delete/:noteId`: Delete a note by its ID.
+
+## License
+
+Distributed under the MIT License. See [MIT License](https://opensource.org/licenses/MIT) for more information.
